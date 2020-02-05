@@ -3,3 +3,6 @@
 welcome
 biryani
 kabab
+mutton biryani
+paneer
+kheer
