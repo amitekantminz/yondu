@@ -6,3 +6,5 @@ kabab
 mutton biryani
 paneer
 kheer
+pakora  
+french fries
