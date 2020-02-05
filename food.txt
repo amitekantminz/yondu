@@ -8,4 +8,8 @@ paneer
 kheer
 pakora  
 french fries
+pizza 
+pasta
+final menu
 done
+
